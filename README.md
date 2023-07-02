@@ -1,4 +1,4 @@
-# Getting Data Task
+#Data Retrieval Api
 
 • This project is a small application consisting of building an API using ASP.NET Core 6 API and another project to display the data on an HTML page. The API retrieves data from a database using Entity Framework, transforms the data into a graph structure, and then displays the data as required using the Depth-First Search (DFS) algorithm.
 
