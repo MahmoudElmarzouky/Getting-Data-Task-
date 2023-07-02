@@ -21,9 +21,15 @@
 
 # Tools that i used 
 • ASP.NET Core API
+
 • Entity Framework
+
 • LINQ
+
 • Repository pattern
+
 • HTML 
+
 • CSS
+
 • Java Script 
