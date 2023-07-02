@@ -33,3 +33,5 @@
 • CSS
 
 • Java Script 
+
+• AJAX
